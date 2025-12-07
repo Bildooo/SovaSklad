@@ -9,7 +9,7 @@ body {
 .sticky-header {
     position: sticky;
     top: 0;
-    background-color: rgb(27, 99, 255);
+    background-color: rgb(194, 213, 255);
     padding: 15px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     z-index: 1000;
